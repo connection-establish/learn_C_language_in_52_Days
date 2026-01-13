@@ -1,0 +1,13 @@
+i am prefer VScode for the IDE.If you prfer any ather IDE 
+You can use it. 
+
+for the VScode install this extention 
+	C/C++ Extension Pack
+	C/C++ for Visual Studio Code
+	code runner
+Now IDE is rady for our coding but we need a compiler, So 
+for thet we use "MSYS2" this can compile our code in to .exe file 
+GO to google and Search "MSYS2" in there go to fist link and download
+acoding to your system
+	WWW.MSYS2.org
+ 
